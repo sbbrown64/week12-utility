@@ -1,2 +1,5 @@
 # week12-utility
-Week 12 repos
+# METHOD USED
+# Sara Brown
+# CSCI 102 - Section B
+# Week 12 - Part A
